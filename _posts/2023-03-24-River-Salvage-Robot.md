@@ -56,7 +56,7 @@ TBD
 2. 水下通訊: 紅外線 IR-LED + VS1838B
 
 3. 水下測距: [水下超音波](https://www.ruten.com.tw/item/show?22313324625575)
-4. ![](https://img.alicdn.com/imgextra/i1/2818464855/O1CN01xWqDFh1ljdb5LOuOs_!!2818464855.jpg)
+![](https://img.alicdn.com/imgextra/i1/2818464855/O1CN01xWqDFh1ljdb5LOuOs_!!2818464855.jpg)
 
 4. 水下載具: 打撈機器人
 
