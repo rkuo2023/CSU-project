@@ -50,11 +50,11 @@ TBD
 
 ---
 ### 概念驗證
-1. 水下視覺: 
+1. 水下視覺: <b
 * 水下攝像: [15m 電線8件 led /紅外線520tvl 12v水下潛艇檢查cctv迷你攝像機](https://www.pchomeus.com/item/show?30223030550564)
 * 影像顯示器:  [倒車影像顯示器](https://www.ruten.com.tw/item/show?22306004098778)
 
-2. 水下通訊: [紅外線 IR-LED + VS1838B](https://github.com/rkuo2000/MCU-course/blob/main/_posts/2022-03-03-ESP32-GPIO.md)
+2. 水下通訊: [紅外線 IR-LED + VS1838B](https://github.com/rkuo2000/MCU-course/blob/main/_posts/2022-03-03-ESP32-GPIO.md)<br>
 ![](https://github.com/rkuo2000/MCU-course/raw/main/images/Example_IRremote_TX_RX.png?raw=true)
 
 3. 水下測距: [水下超音波](https://www.ruten.com.tw/item/show?22313324625575)
