@@ -51,6 +51,7 @@ TBD
 ---
 ### 概念驗證
 1. AI視覺辨識: [AMB82-mini](https://www.ruten.com.tw/item/show?22308071996883)
+![](https://a.rimg.com.tw/s3/ebay/834/619/3rdeye%2A2011%40ebay/2/88/24/ef1e331915aaef772f8a55fa5542723d_30223030550564.jpg)
 
 2. 水下通訊: 紅外線 IR-LED + VS1838B
 
@@ -101,6 +102,9 @@ TBD
 
 * AI視覺辨識: [AMB82-mini](https://www.ruten.com.tw/item/show?22308071996883)
 ![](https://gcs.rimg.com.tw/g1/0/e5/d3/22308071996883_434.jpg)
+
+* [水下攝像]
+- [15m 電線8件 led /紅外線520tvl 12v水下潛艇檢查cctv迷你攝像機](https://www.pchomeus.com/item/show?30223030550564)
 
 * 水下測距器
 ![](https://www.hnq5188.com/ueditor/php/upload/image/20210615/1623735813455261.jpg)
