@@ -38,7 +38,6 @@ tags: [jekyll, ai]
 
 **所需相關技術：**<br>
 1. 口罩支架
-![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_417.jpg)
 
 ---
 ### 概念驗證
