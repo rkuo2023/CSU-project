@@ -22,6 +22,8 @@ tags: [jekyll, ai]
 
 目的: To-Be-Discussed <br>
 
+<iframe width="878" height="494" src="https://www.youtube.com/embed/Kz3gDpoZsoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ### 應用功能說明
 1. AI視覺辨識
@@ -82,8 +84,6 @@ Components:
 
 **Demo**<br>
 <iframe width="878" height="494" src="https://www.youtube.com/embed/Sblo40GJvZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="878" height="494" src="https://www.youtube.com/embed/Kz3gDpoZsoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
