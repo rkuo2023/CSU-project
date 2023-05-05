@@ -37,12 +37,16 @@ tags: [jekyll, ai]
 3. 依據個人狀況舒適逕行調整
 
 **所需相關技術：**<br>
-1. 硅膠口罩支架
-![](https://gcs.rimg.com.tw/g2/c/95/92/22123966539154_852.jpg)
+1. 口罩支架
+![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_417.jpg)
 
 ---
 ### 概念驗證
-1. 
+1. 口罩支架: 矽膠/3D列印
+![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_417.jpg)
+![](https://gcs.rimg.com.tw/g2/c/95/92/22123966539154_852.jpg)
+![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_685.jpg)
+![](https://gcs.rimg.com.tw/g2/f/e2/b4/22125280621236_135.jpg)
 
 ---
 ### 開發進度與展示
@@ -58,6 +62,13 @@ tags: [jekyll, ai]
 
 ### 硅膠口罩支架
 <iframe width="727" height="409" src="https://www.youtube.com/embed/ha9XlwmWypQ" title="硅膠口罩支架 介紹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### [防掉妝口罩支架](https://www.ruten.com.tw/item/show?22125280621236)
+![](https://gcs.rimg.com.tw/g2/f/e2/b4/22125280621236_135.jpg)
+
+### [口罩立體支架](https://www.ruten.com.tw/item/show?22123061902514)
+![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_417.jpg)
+![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_685.jpg)
 
 <br />
 <br />
