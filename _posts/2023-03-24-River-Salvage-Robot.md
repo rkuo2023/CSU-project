@@ -50,10 +50,12 @@ TBD
 
 ---
 ### 概念驗證
-1. AI視覺辨識: [AMB82-mini](https://www.ruten.com.tw/item/show?22308071996883)
-![](https://a.rimg.com.tw/s3/ebay/834/619/3rdeye%2A2011%40ebay/2/88/24/ef1e331915aaef772f8a55fa5542723d_30223030550564.jpg)
+1. 水下視覺: 
+* 水下攝像: [15m 電線8件 led /紅外線520tvl 12v水下潛艇檢查cctv迷你攝像機](https://www.pchomeus.com/item/show?30223030550564)
+* 影像顯示器:  [倒車影像顯示器](https://www.ruten.com.tw/item/show?22306004098778)
 
-2. 水下通訊: 紅外線 IR-LED + VS1838B
+2. 水下通訊: [紅外線 IR-LED + VS1838B](https://github.com/rkuo2000/MCU-course/blob/main/_posts/2022-03-03-ESP32-GPIO.md)
+![](https://github.com/rkuo2000/MCU-course/raw/main/images/Example_IRremote_TX_RX.png?raw=true)
 
 3. 水下測距: [水下超音波](https://www.ruten.com.tw/item/show?22313324625575)
 ![](https://img.alicdn.com/imgextra/i1/2818464855/O1CN01xWqDFh1ljdb5LOuOs_!!2818464855.jpg)
@@ -62,22 +64,19 @@ TBD
 
 5. 水下撿拾: 撿拾手機之夾具
 
+6. AI視覺辨識: [AMB82-mini](https://www.ruten.com.tw/item/show?22308071996883)
+![](https://a.rimg.com.tw/s3/ebay/834/619/3rdeye%2A2011%40ebay/2/88/24/ef1e331915aaef772f8a55fa5542723d_30223030550564.jpg)
 ---
 ### 開發進度與展示
-
-**AI視覺辨識**<br>
-
-1. 驗證[AMB82-mini](https://www.ruten.com.tw/item/show?22308071996883)<br>
+1. [AMB82-mini](https://www.ruten.com.tw/item/show?22308071996883)<br>
 * [AMB82 MINI (Ameba RTL8735B) summary](https://www.amebaiot.com/zh/ameba-arduino-summary/)
 * [AI examples](https://www.amebaiot.com/zh/amebapro2-amb82-mini-arduino-peripherals-examples/#ambpro2-arduino-ai)
 * [AI Object Detection](https://www.amebaiot.com/zh/amebapro2-amb82-mini-arduino-neuralnework-object-detection/)
 
-**水下通訊**<br>
-1. 驗證紅外線水下通訊 IR-LED + VS1838B
-
 ---
 ### 參考資料 (References)
 * 打撈機器人
+
 ![](https://github.com/rkuo2023/CSU-project/blob/main/images/Salvage-Robot.jpg?raw=true)
 
 * 水下機器人
