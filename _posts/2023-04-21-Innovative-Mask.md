@@ -41,7 +41,7 @@ tags: [jekyll, ai]
 
 ---
 ### 概念驗證
-1. 口罩支架: 矽膠/3D列印
+1. 口罩支架: 矽膠/3D列印<br>
 ![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_417.jpg)
 ![](https://gcs.rimg.com.tw/g2/c/95/92/22123966539154_852.jpg)
 ![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_685.jpg)
