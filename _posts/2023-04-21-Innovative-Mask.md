@@ -63,11 +63,8 @@ tags: [jekyll, ai]
 <iframe width="727" height="409" src="https://www.youtube.com/embed/ha9XlwmWypQ" title="硅膠口罩支架 介紹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### [防掉妝口罩支架](https://www.ruten.com.tw/item/show?22125280621236)
-![](https://gcs.rimg.com.tw/g2/f/e2/b4/22125280621236_135.jpg)
 
 ### [口罩立體支架](https://www.ruten.com.tw/item/show?22123061902514)
-![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_417.jpg)
-![](https://gcs.rimg.com.tw/g2/0/ec/b2/22123061902514_685.jpg)
 
 <br />
 <br />
