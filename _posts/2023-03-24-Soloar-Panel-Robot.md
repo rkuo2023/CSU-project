@@ -18,7 +18,7 @@ tags: [jekyll, ai]
 * **成果展示** (Demostation)
 
 ---
-##太陽能板清潔機器人
+## 太陽能板清潔機器人
 
 類別: 清潔機器人 <br>
 
@@ -55,11 +55,18 @@ TBD
 ---
 ## 參考資料:
 
+### 光伏电站清洗方式的进化之路
+<iframe width="1148" height="646" src="https://www.youtube.com/embed/Hi4CTlEOZJQ" title="光伏行业：光伏电站清洗方式的进化之路 the evolution of cleaning methods for photovoltaic power plants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 ### 台灣製太陽能板清洗機器人
 <iframe width="1056" height="594" src="https://www.youtube.com/embed/bt7wkppjLVc" title="台灣製太陽能板清洗機器人 solar panel robot 光伏板" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-### [專為清潔太陽能板所打造的機器人](https://www.facebook.com/YahooTWNews/videos/%E5%B0%88%E7%82%BA%E6%B8%85%E6%BD%94%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF%E6%89%80%E6%89%93%E9%80%A0%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA/382538566622142/)
+### Robotic Solar Panel Cleaner Demonstration
+<iframe width="1148" height="646" src="https://www.youtube.com/embed/3b2bnYbkxq0" title="Robotic Solar Panel Cleaner Demonstration At UC Davis Solar Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1148" height="646" src="https://www.youtube.com/embed/Mn0h_zrGckw" title="#pvcleaning #ecopak #trion ECOPAK 1D72EX-BT Güneş Enerji Santrali Temizlik Robotu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ### 德國凱馳Isolar太陽能板清洗設備
