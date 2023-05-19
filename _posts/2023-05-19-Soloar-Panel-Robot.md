@@ -59,6 +59,10 @@ TBD
 <iframe width="1148" height="646" src="https://www.youtube.com/embed/Hi4CTlEOZJQ" title="光伏行业：光伏电站清洗方式的进化之路 the evolution of cleaning methods for photovoltaic power plants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+### 太陽能板清洗 
+<iframe width="845" height="475" src="https://www.youtube.com/embed/-_oydO5zDvs" title="太陽能板清洗" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 ### 台灣製太陽能板清洗機器人
 <iframe width="1056" height="594" src="https://www.youtube.com/embed/bt7wkppjLVc" title="台灣製太陽能板清洗機器人 solar panel robot 光伏板" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
