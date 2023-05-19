@@ -42,7 +42,7 @@ App Inventor consists of the Designer and the Blocks Editor.
 ![](https://appinventor.mit.edu/explore/sites/all/files/SetupAI2/BlocksTab2.png)
 
 ---
-### [AppInventor中文學習網 - 範例教學](http://www.appinventor.tw/exm)
+### [App Inventor 中文學習網](https://www.appinventor.tw/ai2/)
 
 ---
 ### Example: Text-To-Speech (TTS)
