@@ -52,7 +52,8 @@ TBD
 ## 參考資料:
 
 ### [Philon Wave](https://philon.ai/wave)
-**[Github](https://github.com/alexandrospetkos/quad)**<br>
+
+### [Github](https://github.com/alexandrospetkos/quad)**<br>
 Components:
 * 1x Esp32 or an Arduino compatible board.
 * 1X Sipeed M1 Dock - K210 Development Board
@@ -66,12 +67,14 @@ Components:
 * various bolts & nuts
 ![](https://m.media-amazon.com/images/I/612FwOyJgFL._AC_SX679_.jpg)
 
-**Source Code**: [Source ESP32](https://github.com/alexandrospetkos/quad/tree/master/source%20code/source_esp32)
+---
+### Source Code: [Source ESP32](https://github.com/alexandrospetkos/quad/tree/master/source%20code/source_esp32)
 * [source_esp32.ino](https://github.com/alexandrospetkos/quad/blob/master/source%20code/source_esp32/source_esp32.ino)
 * [kinematics.ino](https://github.com/alexandrospetkos/quad/blob/master/source%20code/source_esp32/kinematics.ino)
 * [hardware.ino](https://github.com/alexandrospetkos/quad/blob/master/source%20code/source_esp32/hardware.ino)
 
-**Simulation**<br>
+---
+### Simulation
 [Warp_simulation_v5](https://github.com/alexandrospetkos/quad/tree/master/simulation/warp_simulation_v5) using Processing 4.0b7<br>
 * Navigation controls:
   mouse, keyboard ['W'], ['A'], ['S'], ['D'], ['Q'], ['E'].
@@ -79,10 +82,21 @@ Components:
 * Simulation controls:
   keyboard [KEY_UP], [KEY_DOWN], [KEY_LEFT], [KEY_RIGHT], ['['], [']'], ['1'], ['2'], ['3'], ['4'], ['5'].
   ![](https://github.com/rkuo2000/Robotics/blob/main/images/Philon-Wave_quadruped_simulation.gif?raw=true)
- 
-**CAD**: [design.step](https://github.com/alexandrospetkos/quad/blob/master/resources/CAD/3D%20Models/design.step)
 
-**Demo**<br>
+---
+### CAD: [design.step](https://github.com/alexandrospetkos/quad/blob/master/resources/CAD/3D%20Models/design.step)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/thumb.jpg?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img0.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img1.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img2.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img3.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img4.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img5.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img6.png?raw=true)
+![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img7.png?raw=true)
+
+---
+### Demo
 <iframe width="878" height="494" src="https://www.youtube.com/embed/Sblo40GJvZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
