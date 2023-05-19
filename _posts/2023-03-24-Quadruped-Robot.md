@@ -92,8 +92,6 @@ Components:
 ![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img3.png?raw=true)
 ![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img4.png?raw=true)
 ![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img5.png?raw=true)
-![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img6.png?raw=true)
-![](https://github.com/alexandrospetkos/quad/blob/master/resources/Photos/img7.png?raw=true)
 
 ---
 ### Demo
