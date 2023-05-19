@@ -44,7 +44,6 @@ TBD
 ### 概念驗證
 1. UWB定位模組 - DW1000
 ![](https://a.rimg.com.tw/c1/10a/f17/zhoudeping/b/9e/22319681726366_369.jpg)
-![](https://a.rimg.com.tw/c1/5e7/e27/zhedagang/d/f8/22318635141624_549.jpg
 
 ---
 ### 開發進度與展示
