@@ -41,7 +41,7 @@ tags: [jekyll, ai]
 
 ---
 ### 系統方塊圖
-![](https://github.com/rkuo2023/CSU-projects/blob/main/images/plant-interactive-robot-system-diagram.png?raw=true)
+![](https://github.com/rkuo2023/CSU-projects/blob/main/images/plant-interactive-robot-block-diagram.png?raw=true)
 
 ---
 ### 概念驗證
