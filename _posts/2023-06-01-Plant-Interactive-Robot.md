@@ -1,21 +1,12 @@
 ---
 layout: post
 title: Plant Interactive Robot
-author: [xuan22222]
+author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
 植物互動機器人
-
----
-## Content
-* **專題題目** (Project Name & Objectives)
-* **應用與功能說明** (功能:透過植栽釋放的電子訊號，來控制鼓棒的快慢。)
-* **設計考量與所需相關技術** (Design considerations)
-* **系統方塊圖** (System Block Diagrams)
-* **概念驗證** (Proof of Concept)
-* **成果展示** (Demostation)
 
 ---
 ## 植物互動機器人
