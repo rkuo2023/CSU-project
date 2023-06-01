@@ -9,6 +9,15 @@ tags: [jekyll, ai]
 植物互動機器人
 
 ---
+## Content
+* **專題題目** (Project Name & Objectives)
+* **應用與功能說明** (Key Features)
+* **設計考量與所需相關技術** (Design considerations)
+* **系統方塊圖** (System Block Diagrams)
+* **概念驗證** (Proof of Concept)
+* **成果展示** (Demostation)
+
+---
 ## 植物互動機器人
 
 類別: 互動機器人 <br>
@@ -60,7 +69,6 @@ tags: [jekyll, ai]
 
 ---
 ### [PERACH – Understanding ourselves and our surroundings](https://www.creativeapplications.net/environment/perach-understanding-ourselves-and-our-surroundings/)
-![](https://www.creativeapplications.net/wp-content/uploads/large/giff.gif)
 
 ---
 ### Meet the Sonic Artist Making Music with Plants: Sound Builders
