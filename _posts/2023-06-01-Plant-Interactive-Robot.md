@@ -69,6 +69,7 @@ tags: [jekyll, ai]
 
 ---
 ### [PERACH – Understanding ourselves and our surroundings](https://www.creativeapplications.net/environment/perach-understanding-ourselves-and-our-surroundings/)
+![](https://github.com/rkuo2023/CSU-projects/blob/main/images/PERACH.PNG?raw=true)
 
 ---
 ### Meet the Sonic Artist Making Music with Plants: Sound Builders
