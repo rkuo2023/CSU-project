@@ -201,7 +201,7 @@ Use Your Smartphone As an Oscilloscope / Signal Generator<br>
 <iframe width="809" height="455" src="https://www.youtube.com/embed/dBHfxvhMChU" title="Rice bioscientists use mixed-reality headset, custom software to measure vegetation in the field" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-### [台灣首位「元宇宙偶像」Lady LayLa 登場，虛幻引擎＋真人聲優搶攻網紅經濟](https://www.techbang.com/posts/98102-taiwans-first-meta-universe-idol
+### [台灣首位「元宇宙偶像」Lady LayLa 登場，虛幻引擎＋真人聲優搶攻網紅經濟](https://www.techbang.com/posts/98102-taiwans-first-meta-universe-idol)
 有別於歐美國家的虛擬偶像，「Lady LayLa（萊拉）」更具備即時 Live 演出的特性，她採用 Unreal 虛幻引擎 UE5，即時成像，能以炫麗的造型和粉絲見面、Real Time 進行表演，再結合唯美燈光、電影鏡頭、華麗特效與高畫質的場景，將使視覺更夢幻，帶領粉絲進入虛幻的元宇宙時空。-lady-layla-debute)
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ei2tTHc7BQU" title="你們比較喜歡哪一種我呢? #台灣第一位元宇宙偶像 #VirtualInfluencer #虛擬偶像" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
