@@ -335,8 +335,7 @@ Invisible Cities的VR巴士之旅提供整合視覺、聽覺、嗅覺、體感�
 
 ---
 ### 太陽能板清潔機器人
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/SEIbiuLtLpg" title="AI無人智能太陽能清洗機器人-視覺運算轉向之過程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="944" height="531" src="https://www.youtube.com/embed/ztmUMLcglOg" title="毛刷高轉速~ 太陽能板清洗車" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ### Trash Picking Robot
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/rjv_wDOblfc" title="The robot solving America’s trash crisis | Hard Reset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -352,10 +351,6 @@ Invisible Cities的VR巴士之旅提供整合視覺、聽覺、嗅覺、體感�
 ---
 ### Black Hornet Drone
 <iframe width="712" height="359" src="https://www.youtube.com/embed/9IkaP6XMNZw" title="价值 195,000 美元的 Black Hornet 无人机能做什么？" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-### Switchblade Suicide Drone
-<iframe width="982" height="552" src="https://www.youtube.com/embed/nd3v56LvwDk" title="Ukraine Used America's Switchblade Suicide Drone to Destroy Russia's Tank" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
